@@ -28,7 +28,7 @@ apply(tmp, MARGIN=1, sum)
 ```
 
 
-'Apply' the function 'sum' over rows.
+'Apply' the function 'sum' over columns.
 
 ```{r}
 apply(tmp, MARGIN=2, sum)
